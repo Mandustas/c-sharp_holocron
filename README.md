@@ -1,2 +1,2 @@
 # c# holocron
-c# wiki pages
+https://github.com/Mandustas/c-sharp_holocron/wiki
